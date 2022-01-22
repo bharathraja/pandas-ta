@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Pandas TA - A Technical Analysis Library in Python 3
+Pandas TA - A Technical Analysis Library in Python 3 - cloned copy
 =================
 
 [![license](https://img.shields.io/github/license/twopirllc/pandas-ta)](#license)
